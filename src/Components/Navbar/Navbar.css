@@ -1,0 +1,10 @@
+.navbar p{
+font-weight: bold;
+}
+input{
+  background-color: transparent;
+}
+.cursor{
+  cursor: pointer;
+  user-select: none;
+}

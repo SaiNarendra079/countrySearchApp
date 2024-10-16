@@ -1,0 +1,6 @@
+setfiltered used to get suggestions
+it filters the search in input box
+
+.includes--it shows the all included words according to search
+
+handle filter --

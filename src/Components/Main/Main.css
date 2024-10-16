@@ -1,0 +1,54 @@
+.inputDiv {
+  width: 100%; 
+  max-width: 400px; 
+  padding: 15px;
+  user-select: none;
+}
+
+input {
+  width: 100%; 
+  border: none;
+  outline: none;
+}
+
+@media (max-width: 768px) {
+  .inputDiv {
+    max-width: 300px; 
+  }
+}
+
+@media (max-width: 576px) {
+  .inputDiv {
+    max-width: 350px; 
+  }
+}
+
+
+.thisBtn:focus{
+  border: none !important;
+}
+.card-title{
+  margin-bottom: 15px;
+}
+.card-text{
+  font-size: 14px;
+  line-height: 5px;
+}
+.card{
+  width: 250px;
+  border: none;
+}
+.card-body{
+  height:150px
+}
+.flagImg{
+  height: 160px;
+}
+
+.searchImage{
+  margin-top: 6px;
+}
+
+li,a:hover{
+  color: black !important;
+}
